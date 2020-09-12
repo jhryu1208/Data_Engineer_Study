@@ -31,15 +31,15 @@
   1. `WHERE` 절
   2. `AND` / `OR` 연산자
   3. 연산자 종류와 활용 방법
-     (1) 기본 연산자 (산술 연산자, 비교 연산자, 등가 비교 연산자)
-     (2) `IN` 연산자
-     (3) `NOT IN` 연산자
-     (4) `BETWEEN A AND B` 연산자
-     (5) `LIKE` 연산자와 와일드 카드
-     (6) 와일드카드 문자가 데이터 일부일 경우
-     (7) `IS NULL` 연산자
-     (8-1) `UNION` 집합 연산자
-     (8-2) `UNION` 집합 연산자 : `UNION`, `UNION ALL`, `MINUS`, `INTERSECT`
-     (9) 연산자 우선 순위  
+     (1) 기본 연산자 (산술 연산자, 비교 연산자, 등가 비교 연산자)<br>
+     (2) `IN` 연산자<br>
+     (3) `NOT IN` 연산자<br>
+     (4) `BETWEEN A AND B` 연산자<br>
+     (5) `LIKE` 연산자와 와일드 카드<br>
+     (6) 와일드카드 문자가 데이터 일부일 경우<br>
+     (7) `IS NULL` 연산자<br>
+     (8-1) `UNION` 집합 연산자<br>
+     (8-2) `UNION` 집합 연산자 : `UNION`, `UNION ALL`, `MINUS`, `INTERSECT`<br>
+     (9) 연산자 우선 순위<br> 
 
 ##### [<U>목차로 이동</U>](#contents)
