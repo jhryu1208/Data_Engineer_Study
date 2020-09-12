@@ -40,6 +40,6 @@
      (7) `IS NULL` 연산자
      (8-1) `UNION` 집합 연산자
      (8-2) `UNION` 집합 연산자 : `UNION`, `UNION ALL`, `MINUS`, `INTERSECT`
-     (9) 연산자 우선 순위
+     (9) 연산자 우선 순위  
 
 ##### [<U>목차로 이동</U>](#contents)
