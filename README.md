@@ -9,6 +9,7 @@
 - [USER and SCHEMA](#USER-and-SCHEMA)
 - [SQL SELECT](#SQL-SELECT)
 - [WHERE and OPERATOR](#WHERE-and-OPERATOR)
+- [ORACLE FUNCTION for DATA PROCESSING](#ORACLE-FUNCTION-for-DATA-PROCESSING)
 --------
 
 ## [USER and SCHEMA](https://github.com/jhryu1208/SQL-Oracle/blob/master/SQL_Oracle_Study/User_and_Schema.ipynb)
@@ -19,18 +20,18 @@
 ##### [<U>목차로 이동</U>](#contents)
 
 ## [SQL SELECT](https://github.com/jhryu1208/SQL-Oracle/blob/master/SQL_Oracle_Study/SQL_SELECT_BASIC.ipynb)
-  1. 데이터를 조회하는 3가지 방법(`SELECTION`, `PROJECTION`, `JOIN`)
-  2. `SELECT`절과 `FROM`절
-  3. 중복 데이터를 제거하는 `DISTINCT`
-  4. 별칭 설정
-  5. 원하는 순서로 출력 데이터를 정렬하는 `ORDER BY`
+  1. <b>데이터를 조회하는 3가지 방법(`SELECTION`, `PROJECTION`, `JOIN`)</b>
+  2. <b>`SELECT`절과 `FROM`절</b>
+  3. <b>중복 데이터를 제거하는 `DISTINCT`
+  4. <b>별칭 설정</b>
+  5. <b>원하는 순서로 출력 데이터를 정렬하는 `ORDER BY`</b>
 
 ##### [<U>목차로 이동</U>](#contents)
 
 ## [WHERE and OPERATOR](https://github.com/jhryu1208/SQL-Oracle/blob/master/SQL_Oracle_Study/SQL_WHERE_and_OPERATOR.ipynb)
-  1. `WHERE` 절
-  2. `AND` / `OR` 연산자
-  3. 연산자 종류와 활용 방법
+  1. <b>`WHERE` 절</b>
+  2. <b>`AND` / `OR` 연산자</b>
+  3. <b>연산자 종류와 활용 방법</b>
      (1) 기본 연산자 (산술 연산자, 비교 연산자, 등가 비교 연산자)<br>
      (2) `IN` 연산자<br>
      (3) `NOT IN` 연산자<br>
@@ -40,6 +41,20 @@
      (7) `IS NULL` 연산자<br>
      (8-1) `UNION` 집합 연산자<br>
      (8-2) `UNION` 집합 연산자 : `UNION`, `UNION ALL`, `MINUS`, `INTERSECT`<br>
-     (9) 연산자 우선 순위<br> 
+     (9) 연산자 우선 순위<br>
+
+##### [<U>목차로 이동</U>](#contents)
+
+## [ORACLE FUNCTION for DATA PROCESSING](https://github.com/jhryu1208/SQL-Oracle/blob/master/SQL_Oracle_Study/SQL_ORACLE_FUNCTION_FOR_DATA_PROCESSING.ipynb)
+  1. <b>오라클 함수</b>
+  2. <b>문자 함수</b>
+    (1) `UPPER`,`LOWER`,`INITCAP` 함수<br>
+    (2) `LENGTH` 함수<br>
+    (3) `SUBSTR` 함수<br>
+    (4) `INSTR` 함수<br>
+    (5) `REPLACE` 함수<br>
+    (6) `LPAD`, `RPAD` 함수<br>
+    (7) `CONCAT` 함수<br>
+    (8) `TRIM`, `LTRIM`, `RTRIM` 함수<br>
 
 ##### [<U>목차로 이동</U>](#contents)
