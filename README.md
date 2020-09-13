@@ -13,16 +13,16 @@
 --------
 
 ## [USER and SCHEMA](https://github.com/jhryu1208/SQL-Oracle/blob/master/SQL_Oracle_Study/User_and_Schema.ipynb)
-  1. 계정과 스키마
-  2. 오라클 데이터베이스 접속 및 SCOTT 계정 설정
-  3. 사용자 계정 생성/권한부여
+  1. <b>계정과 스키마</b>
+  2. <b>오라클 데이터베이스 접속 및 SCOTT 계정 설정</b>
+  3. <b>사용자 계정 생성/권한부여</b>
 
 ##### [<U>목차로 이동</U>](#contents)
 
 ## [SELECT](https://github.com/jhryu1208/SQL-Oracle/blob/master/SQL_Oracle_Study/SQL_SELECT_BASIC.ipynb)
   1. <b>데이터를 조회하는 3가지 방법(`SELECTION`, `PROJECTION`, `JOIN`)</b>
   2. <b>`SELECT`절과 `FROM`절</b>
-  3. <b>중복 데이터를 제거하는 `DISTINCT`
+  3. <b>중복 데이터를 제거하는 `DISTINCT`</b>
   4. <b>별칭 설정</b>
   5. <b>원하는 순서로 출력 데이터를 정렬하는 `ORDER BY`</b>
 
