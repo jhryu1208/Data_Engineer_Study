@@ -32,6 +32,7 @@
   1. <b>`WHERE` 절</b>
   2. <b>`AND` / `OR` 연산자</b>
   3. <b>연산자 종류와 활용 방법</b><br>
+     <br>
      (1) 기본 연산자 (산술 연산자, 비교 연산자, 등가 비교 연산자)<br>
      (2) `IN` 연산자<br>
      (3) `NOT IN` 연산자<br>
@@ -48,6 +49,7 @@
 ## [ORACLE FUNCTION for DATA PROCESSING](https://github.com/jhryu1208/SQL-Oracle/blob/master/SQL_Oracle_Study/SQL_ORACLE_FUNCTION_FOR_DATA_PROCESSING.ipynb)
   1. <b>오라클 함수</b>
   2. <b>문자 함수</b><br>
+    <br>
     (1) `UPPER`,`LOWER`,`INITCAP` 함수<br>
     (2) `LENGTH` 함수<br>
     (3) `SUBSTR` 함수<br>
