@@ -47,7 +47,7 @@
 
 ## [ORACLE FUNCTION for DATA PROCESSING](https://github.com/jhryu1208/SQL-Oracle/blob/master/SQL_Oracle_Study/SQL_ORACLE_FUNCTION_FOR_DATA_PROCESSING.ipynb)
   1. <b>오라클 함수</b>
-  2. <b>문자 함수</b>
+  2. <b>문자 함수</b>  
     (1) `UPPER`,`LOWER`,`INITCAP` 함수<br>
     (2) `LENGTH` 함수<br>
     (3) `SUBSTR` 함수<br>
