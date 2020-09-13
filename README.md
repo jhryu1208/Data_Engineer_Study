@@ -6,20 +6,20 @@
 
 --------
 ## Contents
-- [1. USER and SCHEMA](#1.-USER-and-SCHEMA)
-- [2. SELECT](#2.-SELECT)
-- [3. WHERE and OPERATOR](#3.-WHERE-and-OPERATOR)
-- [4. ORACLE FUNCTION for DATA PROCESSING](#4.-ORACLE-FUNCTION-for-DATA-PROCESSING)
+- [USER and SCHEMA](#USER-and-SCHEMA)
+- [SELECT](#SELECT)
+- [WHERE and OPERATOR](#WHERE-and-OPERATOR)
+- [ORACLE FUNCTION for DATA PROCESSING](#ORACLE-FUNCTION-for-DATA-PROCESSING)
 --------
 
-## [1. USER and SCHEMA](https://github.com/jhryu1208/SQL-Oracle/blob/master/SQL_Oracle_Study/User_and_Schema.ipynb)
+## [USER and SCHEMA](https://github.com/jhryu1208/SQL-Oracle/blob/master/SQL_Oracle_Study/User_and_Schema.ipynb)
   1. 계정과 스키마
   2. 오라클 데이터베이스 접속 및 SCOTT 계정 설정
   3. 사용자 계정 생성/권한부여
 
 ##### [<U>목차로 이동</U>](#contents)
 
-## [2. SELECT](https://github.com/jhryu1208/SQL-Oracle/blob/master/SQL_Oracle_Study/SQL_SELECT_BASIC.ipynb)
+## [SELECT](https://github.com/jhryu1208/SQL-Oracle/blob/master/SQL_Oracle_Study/SQL_SELECT_BASIC.ipynb)
   1. <b>데이터를 조회하는 3가지 방법(`SELECTION`, `PROJECTION`, `JOIN`)</b>
   2. <b>`SELECT`절과 `FROM`절</b>
   3. <b>중복 데이터를 제거하는 `DISTINCT`
@@ -28,7 +28,7 @@
 
 ##### [<U>목차로 이동</U>](#contents)
 
-## [3. WHERE and OPERATOR](https://github.com/jhryu1208/SQL-Oracle/blob/master/SQL_Oracle_Study/SQL_WHERE_and_OPERATOR.ipynb)
+## [WHERE and OPERATOR](https://github.com/jhryu1208/SQL-Oracle/blob/master/SQL_Oracle_Study/SQL_WHERE_and_OPERATOR.ipynb)
   1. <b>`WHERE` 절</b>
   2. <b>`AND` / `OR` 연산자</b>
   3. <b>연산자 종류와 활용 방법</b><br>
@@ -45,7 +45,7 @@
 
 ##### [<U>목차로 이동</U>](#contents)
 
-## [4. ORACLE FUNCTION for DATA PROCESSING](https://github.com/jhryu1208/SQL-Oracle/blob/master/SQL_Oracle_Study/SQL_ORACLE_FUNCTION_FOR_DATA_PROCESSING.ipynb)
+## [ORACLE FUNCTION for DATA PROCESSING](https://github.com/jhryu1208/SQL-Oracle/blob/master/SQL_Oracle_Study/SQL_ORACLE_FUNCTION_FOR_DATA_PROCESSING.ipynb)
   1. <b>오라클 함수</b>
   2. <b>문자 함수</b><br>
     (1) `UPPER`,`LOWER`,`INITCAP` 함수<br>
