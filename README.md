@@ -30,9 +30,7 @@
 
 ## [WHERE and OPERATOR](https://github.com/jhryu1208/SQL-Oracle/blob/master/SQL_Oracle_Study/SQL_WHERE_and_OPERATOR.ipynb)
   1. <b>`WHERE` 절</b>
-  <br>
   2. <b>`AND` / `OR` 연산자</b>
-  <br>
   3. <b>연산자 종류와 활용 방법</b><br>
      (1) 기본 연산자 (산술 연산자, 비교 연산자, 등가 비교 연산자)<br>
      (2) `IN` 연산자<br>
@@ -49,7 +47,6 @@
 
 ## [ORACLE FUNCTION for DATA PROCESSING](https://github.com/jhryu1208/SQL-Oracle/blob/master/SQL_Oracle_Study/SQL_ORACLE_FUNCTION_FOR_DATA_PROCESSING.ipynb)
   1. <b>오라클 함수</b>
-  <br>
   2. <b>문자 함수</b><br>
     (1) `UPPER`,`LOWER`,`INITCAP` 함수<br>
     (2) `LENGTH` 함수<br>
@@ -60,22 +57,19 @@
     (7) `CONCAT` 함수<br>
     (8) `TRIM`, `LTRIM`, `RTRIM` 함수
     <br>
-  3. <b>숫자 함수</b>
-  <br>
+  3. <b>숫자 함수</b><br>
     (1) `ROUND` 함수(숫자 Ver.)<br>
     (2) `TRUNC` 함수(숫자 Ver.)<br>
     (3) `CEIL`, `FLOOR` 함수<br>
     (4) `MOD` 함수
     <br>
-  4. <b>날짜 함수</b>
-  <br>
+  4. <b>날짜 함수</b><br>
     (1) `SYSDATE` 함수<br>
     (2) `ADD_MONTHS` 함수<br>
     (3) `MONTHS_BETWEEN` 함수<br>
     (4) `NEXT_DAY`, `LAST_DAY` 함수<br>
     (5) `ROUND`, `TRUNC` 함수(날짜 Ver.)
     <br>
-  5. <b>형 변환 함수</b>
-  <br>
+  5. <b>형 변환 함수</b><br>
 
 ##### [<U>목차로 이동</U>](#contents)
