@@ -57,11 +57,13 @@
     (7) `CONCAT` 함수<br>
     (8) `TRIM`, `LTRIM`, `RTRIM` 함수
     <br>
+    <br>
   3. <b>숫자 함수</b><br>
     (1) `ROUND` 함수(숫자 Ver.)<br>
     (2) `TRUNC` 함수(숫자 Ver.)<br>
     (3) `CEIL`, `FLOOR` 함수<br>
     (4) `MOD` 함수
+    <br>
     <br>
   4. <b>날짜 함수</b><br>
     (1) `SYSDATE` 함수<br>
@@ -69,6 +71,7 @@
     (3) `MONTHS_BETWEEN` 함수<br>
     (4) `NEXT_DAY`, `LAST_DAY` 함수<br>
     (5) `ROUND`, `TRUNC` 함수(날짜 Ver.)
+    <br>
     <br>
   5. <b>형 변환 함수</b><br>
 
