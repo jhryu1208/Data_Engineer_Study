@@ -14,23 +14,31 @@
 
 ## [USER and SCHEMA](https://github.com/jhryu1208/SQL-Oracle/blob/master/SQL_Oracle_Study/User_and_Schema.ipynb)
   1. <b>계정과 스키마</b>
+<br>
   2. <b>오라클 데이터베이스 접속 및 SCOTT 계정 설정</b>
+<br>
   3. <b>사용자 계정 생성/권한부여</b>
 
 ##### [<U>목차로 이동</U>](#contents)
 
 ## [SELECT](https://github.com/jhryu1208/SQL-Oracle/blob/master/SQL_Oracle_Study/SQL_SELECT_BASIC.ipynb)
   1. <b>데이터를 조회하는 3가지 방법(`SELECTION`, `PROJECTION`, `JOIN`)</b>
+<br>
   2. <b>`SELECT`절과 `FROM`절</b>
+<br>
   3. <b>중복 데이터를 제거하는 `DISTINCT`</b>
+<br>
   4. <b>별칭 설정</b>
+<br>
   5. <b>원하는 순서로 출력 데이터를 정렬하는 `ORDER BY`</b>
 
 ##### [<U>목차로 이동</U>](#contents)
 
 ## [WHERE and OPERATOR](https://github.com/jhryu1208/SQL-Oracle/blob/master/SQL_Oracle_Study/SQL_WHERE_and_OPERATOR.ipynb)
   1. <b>`WHERE` 절</b>
+<br>
   2. <b>`AND` / `OR` 연산자</b>
+<br>
   3. <b>연산자 종류와 활용 방법</b><br>
      (1) 기본 연산자 (산술 연산자, 비교 연산자, 등가 비교 연산자)<br>
      (2) `IN` 연산자<br>
