@@ -86,5 +86,21 @@
     <br>
     <br>
   5. <b>형 변환 함수</b><br>
-
+     (1) 자동 형 변환<br>
+     (2) 명시적 형 변환<br>
+     (3) `TO_CHAR` 함수<br>
+     (4) `TO_NUMBER` 함수<br>
+     (5) `TO_DATE` 함수<br>
+     <br>
+     <br>
+  6. <b>NULL 처리 함수</b>
+     (1) `NVL` 함수<br>
+     (2) `NVL2` 함수<br>
+     <br>
+     <br>
+  7. <b>DECODE함수와 CASE문</b>
+     (1) `DECODE` 함수<br>
+     (2) `CASE` 문<br>
+     <br>
+     <br>
 ##### [<U>목차로 이동</U>](#contents)
