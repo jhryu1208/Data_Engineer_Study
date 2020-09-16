@@ -97,10 +97,9 @@
      (1) `NVL` 함수<br>
      (2) `NVL2` 함수<br>
      <br>
-     <br>
+     
   7. <b>DECODE함수와 CASE문</b><br>
      (1) `DECODE` 함수<br>
      (2) `CASE` 문<br>
-     <br>
      <br>
 ##### [<U>목차로 이동</U>](#contents)
