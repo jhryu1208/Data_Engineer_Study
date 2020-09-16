@@ -93,12 +93,12 @@
      (5) `TO_DATE` 함수<br>
      <br>
      <br>
-  6. <b>NULL 처리 함수</b>
+  6. <b>NULL 처리 함수</b><br>
      (1) `NVL` 함수<br>
      (2) `NVL2` 함수<br>
      <br>
      <br>
-  7. <b>DECODE함수와 CASE문</b>
+  7. <b>DECODE함수와 CASE문</b><br>
      (1) `DECODE` 함수<br>
      (2) `CASE` 문<br>
      <br>
