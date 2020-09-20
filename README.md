@@ -114,11 +114,11 @@
     (3) `MAX`, `MIN` 함수<br>
     (4) `AVG` 함수<br>
 
-  2.<b>GROUP BY 절</b><br>
+  2. <b>GROUP BY 절</b><br>
 
-  3.<b>HAVING 절</b><br>
+  3. <b>HAVING 절</b><br>
 
-  4.<b>그룹화와 관련된 여러 함수</b><br>
+  4. <b>그룹화와 관련된 여러 함수</b><br>
     (1) `ROLLUP`, `CUBE` 함수<br>
     (2) `GROUPING SETS` 함수<br>
     (3) `GROUPING`, `GROUPING_ID` 함수<br>
