@@ -11,6 +11,7 @@
 - [WHERE and OPERATOR](#WHERE-and-OPERATOR)
 - [ORACLE FUNCTION for DATA PROCESSING](#ORACLE-FUNCTION-for-DATA-PROCESSING)
 - [MULTI ROW FUNCTION and GROUP](#MULTI-ROW-FUNCTION-and-GROUP)
+- [JOIN](#JOIN)
 --------
 
 ## [USER and SCHEMA](https://github.com/jhryu1208/SQL-Oracle/blob/master/SQL_Oracle_Study/User_and_Schema.ipynb)
@@ -70,14 +71,14 @@
     (7) `CONCAT` 함수<br>
     (8) `TRIM`, `LTRIM`, `RTRIM` 함수
     <br>
-    <br>
+
   3. <b>숫자 함수</b><br>
     (1) `ROUND` 함수(숫자 Ver.)<br>
     (2) `TRUNC` 함수(숫자 Ver.)<br>
     (3) `CEIL`, `FLOOR` 함수<br>
     (4) `MOD` 함수
     <br>
-    <br>
+
   4. <b>날짜 함수</b><br>
     (1) `SYSDATE` 함수<br>
     (2) `ADD_MONTHS` 함수<br>
@@ -85,18 +86,18 @@
     (4) `NEXT_DAY`, `LAST_DAY` 함수<br>
     (5) `ROUND`, `TRUNC` 함수(날짜 Ver.)
     <br>
-    <br>
+
   5. <b>형 변환 함수</b><br>
      (1) 자동 형 변환<br>
      (2) 명시적 형 변환<br>
      (3) `TO_CHAR` 함수<br>
      (4) `TO_NUMBER` 함수<br>
-     (5) `TO_DATE` 함수<br>
+     (5) `TO_DATE` 함수
      <br>
 
   6. <b>NULL 처리 함수</b><br>
      (1) `NVL` 함수<br>
-     (2) `NVL2` 함수<br>
+     (2) `NVL2` 함수
      <br>
 
   7. <b>DECODE함수와 CASE문</b><br>
@@ -124,5 +125,29 @@
     (3) `GROUPING`, `GROUPING_ID` 함수<br>
     (4) `LISTAGG` 함수<br>
     (5) `PIVOT`, `UNPIVOT` 함수<br>
+
+##### [<U>목차로 이동</U>](#contents)
+
+
+## [JOIN](https://github.com/jhryu1208/SQL-Oracle/blob/master/SQL_Oracle_Study/SQL_JOIN.ipynb)
+
+  1. <b>JOIN</b></br>
+    (1) UNION 집합 연산자와 JOIN의 차이점</br>
+    (2) 여러 테이블을 사용할 때의 FROM절</br>
+    (3) JOIN 조건이 없을 때의 문제점</br>
+    (4) TABLE 별칭 설정</br>
+
+  2. <b>JOIN 종류</b></br>
+    (1) 등가 조인</br>
+    (2) 비등가 조인</br>
+    (3) 자체 조인</br>
+    (4) 외부 조인</br>
+
+  3. <b>SQL-99 표준문법 조인</b></br>
+    (1) `NATURAL JOIN`</br>
+    (2) `JOIN ~ USING`</br>
+    (3) `JOIN ~ ON`</br>
+    (4) `OUTER JOIN`</br>
+    (5) SQL-99 조인 방식에서 세 개 이상의 테이블을 조인할 때</br>
 
 ##### [<U>목차로 이동</U>](#contents)
