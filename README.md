@@ -5,13 +5,14 @@
 - Toad for ORACLE
 
 --------
-## Contents
+## CONTENTS
 - [USER and SCHEMA](#USER-and-SCHEMA)
 - [SELECT](#SELECT)
 - [WHERE and OPERATOR](#WHERE-and-OPERATOR)
 - [ORACLE FUNCTION for DATA PROCESSING](#ORACLE-FUNCTION-for-DATA-PROCESSING)
 - [MULTI ROW FUNCTION and GROUP](#MULTI-ROW-FUNCTION-and-GROUP)
 - [JOIN](#JOIN)
+- [SUBQUERY](#SUBQUERY)
 --------
 
 ## [USER and SCHEMA](https://github.com/jhryu1208/SQL-Oracle/blob/master/SQL_Oracle_Study/User_and_Schema.ipynb)
@@ -149,5 +150,32 @@
     (3) `JOIN ~ ON`</br>
     (4) `OUTER JOIN`</br>
     (5) SQL-99 조인 방식에서 세 개 이상의 테이블을 조인할 때</br>
+
+##### [<U>목차로 이동</U>](#contents)
+
+
+## [SUBQUERY](https://github.com/jhryu1208/SQL-Oracle/blob/master/SQL_Oracle_Study/SQL_SUBQUERY.ipynb)
+
+  1. <b>서브쿼리</b></br>
+    (1) 서브쿼리란?</br>
+    (2) 서브쿼리의 특징</br>
+
+  2. <b>단일행 서브쿼리</b></br>
+    (1) 단일행 서브쿼리와 날짜형 데이터</br>
+    (2) 단일형 서브쿼리의 함수</br>
+
+  3. <b>다중행 서브쿼리</b></br>
+    (1) `IN` 연산자</br>
+    (2) `ANY`, `SOME` 연산자</br>
+    (3) `ALL` 연산자</br>
+    (4) `EXISTS` 연산자</br>
+
+  4. <b>다중열 서브쿼리</b></br>
+
+  5. <b>`FROM`절에 사용하는 서브쿼리와 `WITH`절</b></br>
+    (1) `인라인 뷰` 사용하기</br>
+    (2) `WITH` 절</br>
+
+  6. <b>`SELECT`절에 사용하는 서브쿼리<b></br>
 
 ##### [<U>목차로 이동</U>](#contents)
