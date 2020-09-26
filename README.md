@@ -187,7 +187,7 @@
 ## [DML](https://github.com/jhryu1208/SQL-Oracle/blob/master/SQL_Oracle_Study/SQL_DML.ipynb)
 
   1. <b>테이블에 데이터 추가하기</b></br>
-    (1) 테이블 생성, 복사</br>
+    (1) 테이블 생성/복사</br>
     (2) `INSERT`문 유의점</br>
     (3) `INSERT`문</br>
     (4) 테이블에 `NULL` 데이터 입력하기 : NULL의 명시적/암묵적 입력 </br>
