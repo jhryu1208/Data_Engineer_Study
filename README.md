@@ -2,7 +2,9 @@
 
 - SQL 기본
 - ORACLE 데이터분석 활용
-- Toad for ORACLE
+- Toad for ORACLE 13.4
+- ORACLE 11g
+- Reference : Do it! 오라클로 배우는 데이터베이스
 
 --------
 ## CONTENTS
@@ -13,6 +15,7 @@
 - [MULTI ROW FUNCTION and GROUP](#MULTI-ROW-FUNCTION-and-GROUP)
 - [JOIN](#JOIN)
 - [SUBQUERY](#SUBQUERY)
+- [DML](#DML)
 --------
 
 ## [USER and SCHEMA](https://github.com/jhryu1208/SQL-Oracle/blob/master/SQL_Oracle_Study/User_and_Schema.ipynb)
@@ -177,5 +180,42 @@
     (2) `WITH` 절</br>
 
   6. <b>`SELECT`절에 사용하는 서브쿼리<b></br>
+
+##### [<U>목차로 이동</U>](#contents)
+
+
+## [DML](https://github.com/jhryu1208/SQL-Oracle/blob/master/SQL_Oracle_Study/SQL_DML.ipynb)
+
+  1. <b>테이블에 데이터 추가하기</b></br>
+    (1) 테이블 생성</br>
+      - 테이블 복사</br>
+
+    (2) `INSERT`문 유의점</br>
+      - 테이블을 잘못 만들었을 때
+      - 작업 중 프로그램이 종료되었을 때<br>
+
+    (3) `INSERT`문<br>
+
+    (4) 테이블에 `NULL` 데이터 입력하기<br>
+      - NULL의 명시적 입력
+      - NULL의 암묵적 입력<br>
+
+    (5) 테이블에 날짜 데이터 입력하기<br>
+
+    (6) 서브쿼리를 사용하여 한 번에 여러 데이터 추가하기<br>
+
+
+  2. <b>테이블에 있는 데이터 수정하기</b></br>
+    (1) `UPDATE`문의 사용법</br>
+    (2) 데이터 전체 수정하기</br>
+    (3) `ROLLBACK` : 수정한 내용 되돌리기</br>
+    (4) 데이터 일부분만 수정하기</br>
+    (5) 서브쿼리를 사용하여 데이터 수정하기</br>
+    (6) `UPDATE`문 사용할 때 주의점</br>
+
+  3. <b>테이블에 있는 데이터 삭제하기</b></br>
+    (1) 데이터 일부분 삭제하기</br>
+    (2) 서브쿼리를 사용하여 데이터 삭제하기</br>
+    (3) 데이터 전체 삭제하기</br>
 
 ##### [<U>목차로 이동</U>](#contents)
