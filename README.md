@@ -187,18 +187,12 @@
 ## [DML](https://github.com/jhryu1208/SQL-Oracle/blob/master/SQL_Oracle_Study/SQL_DML.ipynb)
 
   1. <b>테이블에 데이터 추가하기</b></br>
-    (1) 테이블 생성</br>
-        - 테이블 복사</br>
-    (2) `INSERT`문 유의점</br>
-        - 테이블을 잘못 만들었을 때
-        - 작업 중 프로그램이 종료되었을 때
+    (1) 테이블 생성</br><dd> - 테이블 복사</br></dd>
+    (2) `INSERT`문 유의점</br><dd> - 테이블을 잘못 만들었을 때</br> - 작업 중 프로그램이 종료 되었을 때</br></dd>
     (3) `INSERT`문</br>
-    (4) 테이블에 `NULL` 데이터 입력하기</br>
-        - NULL의 명시적 입력
-        - NULL의 암묵적 입력
+    (4) 테이블에 `NULL` 데이터 입력하기</br><dd> - NULL의 명시적 입력</br> - NULL의 암묵적 입력</br></dd>
     (5) 테이블에 날짜 데이터 입력하기</br>
     (6) 서브쿼리를 사용하여 한 번에 여러 데이터 추가하기</br>
-
 
   2. <b>테이블에 있는 데이터 수정하기</b></br>
     (1) `UPDATE`문의 사용법</br>
