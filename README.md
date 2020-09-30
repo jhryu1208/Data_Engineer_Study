@@ -16,6 +16,9 @@
 - [JOIN](#JOIN)
 - [SUBQUERY](#SUBQUERY)
 - [DML](#DML)
+- [TRANSACTION AND SESSION](#TRANSACTION-AND-SESSION)
+- [DDL](#DDL)
+- [OBJECT TYPES](#OBJECT-TYPES)
 --------
 
 ## [USER and SCHEMA](https://github.com/jhryu1208/SQL-Oracle/blob/master/SQL_Oracle_Study/User_and_Schema.ipynb)
@@ -206,5 +209,91 @@
     (1) 데이터 일부분 삭제하기</br>
     (2) 서브쿼리를 사용하여 데이터 삭제하기</br>
     (3) 데이터 전체 삭제하기</br>
+
+##### [<U>목차로 이동</U>](#contents)
+
+
+## [TRANSACTION AND SESSION](https://github.com/jhryu1208/SQL-Oracle/blob/master/SQL_Oracle_Study/SQL_TRANSACTION_and_SESSION.ipynb)
+
+  1. <b>하나의 단위로 데이터를 처리하는 트랜잭션</b></br>
+    (1) `트랜잭션`이란?</br>
+
+  2. <b>트랜잭션 제어와 세션</b></br>
+    (1) `ROLLBACK` : 트랜잭션 취소</br>
+    (2) `COMMIT` : 트랜잭션 영구적 반영</br>
+
+  3. <b>세션과 읽기 일관성의 의미</b></br>
+    (1) `세션`이란?</br>
+    (2) 읽기 일관성의 중요성</br>
+
+  4. <b>수정 중인 데이터 접근을 막는 LOCK</b></br>
+    (1) `LOCK`이란?</br>
+    (2) `LOCK`의 개념</br>
+    (3) `LOCK`의 종류</br>
+
+
+##### [<U>목차로 이동</U>](#contents)
+
+
+## [DDL](https://github.com/jhryu1208/SQL-Oracle/blob/master/SQL_Oracle_Study/SQL_DDL.ipynb)
+
+  1. <b>객체를 생성/변경/삭제하는 데이터 정의어</b></br>
+    (1) DDL을 사용할 때 유의점</br>
+
+  2. <b>`CREATE` : 테이블 생성</b></br>
+    (1) 자료형을 각각 정의하여 새 테이블 생성하기</br>
+    (2) 기존 테이블의 열 구조와 데이터를 복사하여 새 테이블 생성하기</br>
+    (3) 기존 테이블의 열 구조와 일부 데이터만 복사하여 새 테이블 생성하기</br>
+    (4) 기존 테이블의 열 구조만 복사하여 새 테이블 생성하기</br>
+
+  3. <b>`ALTER` : 테이블을 수정/변경</b></br>
+    (1) `ADD`키워드 : 테이블에 열 추가</br>
+    (2) `RENAME`키워드 : 열 이름을 변경</br>
+    (3) `MODIFY`키워드 : 열의 자료형 변경</br>
+    (4) `DROP`키워드 : 특정 열 삭제</br>
+
+  4. <b>`RENAME` : 테이블 이름 변경</b></br>
+
+  5. <b>`TRUNCATE` : 테이블의 데이터 삭제</b></br>
+
+  6. <b>`DROP` : 테이블 삭제</b></br>
+
+
+##### [<U>목차로 이동</U>](#contents)
+
+
+## [OBJECT TYPES](https://github.com/jhryu1208/SQL-Oracle/blob/master/SQL_Oracle_Study/SQL_OBJECT_TYPES.ipynb)
+
+  1. <b>데이터베이스를 위한 데이터를 저장한 `데이터 사전`</b></br>
+    (1) `데이터사전`이란?</br>
+    (2) `USER_`접두어를 가진 데이터 사전</br>
+    (3) `ALL_`접두어를 가진 데이터 사전</br>
+    (4) `DBA_`접두어를 가진 데이터 사전</br>
+
+  2. <b>더 빠른 검색을 위한 `인덱스`</b></br>
+    (1) `인덱스`란?</br>
+    (2) `CREATE INDEX` : 인덱스 생성</br>
+    (3) `DROP INDEX` : 인덱스 삭제</br>
+
+  3. <b>데이터처럼 사용하는 `뷰`</b></br>
+    (1) `뷰`란?</br>
+    (2) 뷰의 사용 목적(편리성)</br>
+    (3) 뷰의 사용 목적(보안성)</br>
+    (4) `CREATE VIEW` : 뷰 생성</br>
+    (5) `DROP VIEW` : 뷰 삭제</br>
+    (5) 인라인 뷰를 사용한 TOP-N SQL문 : 순서를 매기는 `ROWNUM`</br>
+
+  4. <b>규칙에 따라 순번을 생성하는 `시퀀스`</b></br>
+    (1) `시퀀스`란?</br>
+    (2) `CREATE SEQUENCE` : 시퀀스 생성</br>
+    (3) `시퀀스 이름.CURRVAL`, `시퀀스 이름.NEXTVAL` : 시퀀스 사용</br>
+    (4) `ALTER SEQUENCE` : 시퀀스 수정</br>
+    (5) `DROP SEQUENCE` : 시퀀스 삭제</br>
+
+  5. <b>공식 별칭을 지정하는 `동의어`</b></br>
+    (1) `동의어`란?</br>
+    (2) `CREATE SYNONYM` : 동의어 생성</br>
+    (3) `DROP SYNONYM` : 동의어 삭제</br>
+
 
 ##### [<U>목차로 이동</U>](#contents)
