@@ -19,6 +19,7 @@
 - [TRANSACTION AND SESSION](#TRANSACTION-AND-SESSION)
 - [DDL](#DDL)
 - [OBJECT TYPES](#OBJECT-TYPES)
+- [USER,PRIVILEGE,ROLE](#USER,PRIVILEGE,ROLE)
 --------
 
 ## [USER and SCHEMA](https://github.com/jhryu1208/SQL-Oracle/blob/master/SQL_Oracle_Study/User_and_Schema.ipynb)
@@ -299,3 +300,28 @@
 ##### [<U>목차로 이동</U>](#contents)
 
 
+## [USER,PRIVILEGE,ROLE](https://github.com/jhryu1208/SQL-Oracle/blob/master/SQL_Oracle_Study/SQL_USER_PRIVILEGE_ROLE.ipynb)
+
+  1. <b>사용자 관리</b></br>
+    (1) `사용자`란?</br>
+    (2) `데이터베이스 스키마`란?</br>
+    (3) 사용자 생성</br>
+    (4) 사용자 정보 조회</br>
+    (5) 오라클 사용자의 변경과 삭제</br>
+
+
+  2. <b>권한 관리</b></br>
+    (1) `시스템 권한`이란?</br>
+    (2) 시스템 권한 부여</br>
+    (3) 시스템 권한 취소</br>
+    (4) `객체 권한`이란?</br>
+    (5) 객체 권한 부여</br>
+    (6) 객체 권한 취소</br>
+
+  3. <b>롤 관리</b></br>
+    (1) `롤`이란?</br>
+    (2) 사전 정의된 롤 : CONNECT롤, RESOURCE롤</br>
+    (3) 사용자 정의 롤 : 롤 생성/확인/취소/삭제</br>
+
+
+##### [<U>목차로 이동</U>](#contents)
