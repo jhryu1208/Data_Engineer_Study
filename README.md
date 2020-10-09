@@ -30,11 +30,7 @@
 </details>
 
 --------
-### <img src="https://user-images.githubusercontent.com/53929665/92984951-4aefac80-f4e9-11ea-8a19-f408b756f663.png" alt="drawing" width="25"/> ORACLE (SQL DB)
-
-<details>
-<summary>unfolding</summary>
-<div markdown='1'>
+## <img src="https://user-images.githubusercontent.com/53929665/92984951-4aefac80-f4e9-11ea-8a19-f408b756f663.png" alt="drawing" width="40"/> ORACLE (SQL DB)
 
 ## [USER and SCHEMA](https://github.com/jhryu1208/SQL-Oracle/blob/master/SQL_Oracle_Study/User_and_Schema.ipynb)
   1. <b>계정과 스키마</b>
@@ -339,6 +335,3 @@
 
 
 ##### [<U>목차로 이동</U>](#contents)
-
-</div>
-</details>
