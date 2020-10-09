@@ -30,7 +30,9 @@
 </details>
 
 --------
-## <img src="https://user-images.githubusercontent.com/53929665/92984951-4aefac80-f4e9-11ea-8a19-f408b756f663.png" alt="drawing" width="40"/> ORACLE (SQL DB)
+<div class="alert alert-block" style="border: 1px solid #FFB300;background-color:#F9FBE7;">
+<font size="3em" style="font-weight:bold;color:#3f8dbf;"><img src="https://user-images.githubusercontent.com/53929665/92984951-4aefac80-f4e9-11ea-8a19-f408b756f663.png" alt="drawing" width="40"/> ORACLE (SQL DB)
+</div>
 
 ## [USER and SCHEMA](https://github.com/jhryu1208/SQL-Oracle/blob/master/SQL_Oracle_Study/User_and_Schema.ipynb)
   1. <b>계정과 스키마</b>
