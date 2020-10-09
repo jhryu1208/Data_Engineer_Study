@@ -12,6 +12,7 @@
 <details>
 <summary>unfolding</summary>
 <div markdown='1'>
+
 - [USER and SCHEMA](#USER-and-SCHEMA)
 - [SELECT](#SELECT)
 - [WHERE and OPERATOR](#WHERE-and-OPERATOR)
@@ -24,6 +25,7 @@
 - [DDL](#DDL)
 - [OBJECT TYPES](#OBJECT-TYPES)
 - [USER,PRIVILEGE,ROLE](#USER,PRIVILEGE,ROLE)
+
 </div>
 </details>
 --------
