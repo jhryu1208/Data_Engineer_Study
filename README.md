@@ -1,14 +1,14 @@
-#   <img src="https://user-images.githubusercontent.com/53929665/92984951-4aefac80-f4e9-11ea-8a19-f408b756f663.png" alt="drawing" width="40"/> ORACLE (SQL DB) Study
+#   Data Engineering Study
 
 - SQL 기본
-- ORACLE 데이터분석 활용
-- Toad for ORACLE 13.4
-- ORACLE 11g
-- Reference : Do it! 오라클로 배우는 데이터베이스
+  - ORALCE (11g) - TOAD
+  - MYSQL  (ver.8) - MYSQL WORKBENCH
+- Reference
+  - Do it! 오라클로 배우는 데이터베이스
 
 --------
 ## CONTENTS
-### ORACLE
+### <img src="https://user-images.githubusercontent.com/53929665/92984951-4aefac80-f4e9-11ea-8a19-f408b756f663.png" alt="drawing" width="40"/> ORACLE (SQL DB)
 <details>
 <summary>unfolding</summary>
 <div markdown='1'>
@@ -28,6 +28,7 @@
 
 </div>
 </details>
+
 --------
 
 ## [USER and SCHEMA](https://github.com/jhryu1208/SQL-Oracle/blob/master/SQL_Oracle_Study/User_and_Schema.ipynb)
