@@ -1,4 +1,4 @@
-#   Data Engineering Study
+﻿#   Data Engineering Study
 
 - SQL 기본
   - ORALCE (11g) - TOAD
@@ -33,7 +33,7 @@
 
 ## <img src="https://user-images.githubusercontent.com/53929665/92984951-4aefac80-f4e9-11ea-8a19-f408b756f663.png" alt="drawing" width="40"/> ORACLE (SQL DB)
 
-## [USER and SCHEMA](https://github.com/jhryu1208/SQL-Oracle/blob/master/SQL_Oracle_Study/User_and_Schema.ipynb)
+### [ [USER and SCHEMA](https://github.com/jhryu1208/SQL-Oracle/blob/master/SQL_Oracle_Study/User_and_Schema.ipynb) ]
   1. <b>계정과 스키마</b>
     <br>
   2. <b>오라클 데이터베이스 접속 및 SCOTT 계정 설정</b>
@@ -42,7 +42,7 @@
 
 ##### [<U>목차로 이동</U>](#contents)
 
-## [SELECT](https://github.com/jhryu1208/SQL-Oracle/blob/master/SQL_Oracle_Study/SQL_SELECT_BASIC.ipynb)
+### [SELECT](https://github.com/jhryu1208/SQL-Oracle/blob/master/SQL_Oracle_Study/SQL_SELECT_BASIC.ipynb)
 
   1. <b>데이터를 조회하는 3가지 방법(`SELECTION`, `PROJECTION`, `JOIN`)</b>
     <br>
@@ -56,7 +56,7 @@
 
 ##### [<U>목차로 이동</U>](#contents)
 
-## [WHERE and OPERATOR](https://github.com/jhryu1208/SQL-Oracle/blob/master/SQL_Oracle_Study/SQL_WHERE_and_OPERATOR.ipynb)
+### [WHERE and OPERATOR](https://github.com/jhryu1208/SQL-Oracle/blob/master/SQL_Oracle_Study/SQL_WHERE_and_OPERATOR.ipynb)
 
   1. <b>`WHERE` 절</b>
     <br>
@@ -76,7 +76,7 @@
 
 ##### [<U>목차로 이동</U>](#contents)
 
-## [ORACLE FUNCTION for DATA PROCESSING](https://github.com/jhryu1208/SQL-Oracle/blob/master/SQL_Oracle_Study/SQL_ORACLE_FUNCTION_FOR_DATA_PROCESSING.ipynb)
+### [ORACLE FUNCTION for DATA PROCESSING](https://github.com/jhryu1208/SQL-Oracle/blob/master/SQL_Oracle_Study/SQL_ORACLE_FUNCTION_FOR_DATA_PROCESSING.ipynb)
 
   1. <b>오라클 함수</b>
     <br>
@@ -126,7 +126,7 @@
 ##### [<U>목차로 이동</U>](#contents)
 
 
-## [MULTI ROW FUNCTION and GROUP](https://github.com/jhryu1208/SQL-Oracle/blob/master/SQL_Oracle_Study/SQL_MULTI_ROW_FUNCTION_and_GROUP.ipynb)
+### [MULTI ROW FUNCTION and GROUP](https://github.com/jhryu1208/SQL-Oracle/blob/master/SQL_Oracle_Study/SQL_MULTI_ROW_FUNCTION_and_GROUP.ipynb)
 
   1. <b>다중행 함수(Multi Row Function)</b><br>
     (1) `SUM` 함수<br>
@@ -148,7 +148,7 @@
 ##### [<U>목차로 이동</U>](#contents)
 
 
-## [JOIN](https://github.com/jhryu1208/SQL-Oracle/blob/master/SQL_Oracle_Study/SQL_JOIN.ipynb)
+### [JOIN](https://github.com/jhryu1208/SQL-Oracle/blob/master/SQL_Oracle_Study/SQL_JOIN.ipynb)
 
   1. <b>JOIN</b></br>
     (1) UNION 집합 연산자와 JOIN의 차이점</br>
@@ -172,7 +172,7 @@
 ##### [<U>목차로 이동</U>](#contents)
 
 
-## [SUBQUERY](https://github.com/jhryu1208/SQL-Oracle/blob/master/SQL_Oracle_Study/SQL_SUBQUERY.ipynb)
+### [SUBQUERY](https://github.com/jhryu1208/SQL-Oracle/blob/master/SQL_Oracle_Study/SQL_SUBQUERY.ipynb)
 
   1. <b>서브쿼리</b></br>
     (1) 서브쿼리란?</br>
@@ -199,7 +199,7 @@
 ##### [<U>목차로 이동</U>](#contents)
 
 
-## [DML](https://github.com/jhryu1208/SQL-Oracle/blob/master/SQL_Oracle_Study/SQL_DML.ipynb)
+### [DML](https://github.com/jhryu1208/SQL-Oracle/blob/master/SQL_Oracle_Study/SQL_DML.ipynb)
 
   1. <b>테이블에 데이터 추가하기</b></br>
     (1) 테이블 생성/복사</br>
@@ -225,7 +225,7 @@
 ##### [<U>목차로 이동</U>](#contents)
 
 
-## [TRANSACTION AND SESSION](https://github.com/jhryu1208/SQL-Oracle/blob/master/SQL_Oracle_Study/SQL_TRANSACTION_and_SESSION.ipynb)
+### [TRANSACTION AND SESSION](https://github.com/jhryu1208/SQL-Oracle/blob/master/SQL_Oracle_Study/SQL_TRANSACTION_and_SESSION.ipynb)
 
   1. <b>하나의 단위로 데이터를 처리하는 트랜잭션</b></br>
     (1) `트랜잭션`이란?</br>
@@ -247,7 +247,7 @@
 ##### [<U>목차로 이동</U>](#contents)
 
 
-## [DDL](https://github.com/jhryu1208/SQL-Oracle/blob/master/SQL_Oracle_Study/SQL_DDL.ipynb)
+### [DDL](https://github.com/jhryu1208/SQL-Oracle/blob/master/SQL_Oracle_Study/SQL_DDL.ipynb)
 
   1. <b>객체를 생성/변경/삭제하는 데이터 정의어</b></br>
     (1) DDL을 사용할 때 유의점</br>
@@ -274,7 +274,7 @@
 ##### [<U>목차로 이동</U>](#contents)
 
 
-## [OBJECT TYPES](https://github.com/jhryu1208/SQL-Oracle/blob/master/SQL_Oracle_Study/SQL_OBJECT_TYPES.ipynb)
+### [OBJECT TYPES](https://github.com/jhryu1208/SQL-Oracle/blob/master/SQL_Oracle_Study/SQL_OBJECT_TYPES.ipynb)
 
   1. <b>데이터베이스를 위한 데이터를 저장한 `데이터 사전`</b></br>
     (1) `데이터사전`이란?</br>
@@ -311,7 +311,7 @@
 ##### [<U>목차로 이동</U>](#contents)
 
 
-## [USER,PRIVILEGE,ROLE](https://github.com/jhryu1208/SQL-Oracle/blob/master/SQL_Oracle_Study/SQL_USER_PRIVILEGE_ROLE.ipynb)
+### [USER,PRIVILEGE,ROLE](https://github.com/jhryu1208/SQL-Oracle/blob/master/SQL_Oracle_Study/SQL_USER_PRIVILEGE_ROLE.ipynb)
 
   1. <b>사용자 관리</b></br>
     (1) `사용자`란?</br>
