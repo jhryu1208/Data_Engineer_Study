@@ -1,4 +1,4 @@
-﻿#   Data Engineering Study
+#   Oracle Study
 
 - SQL 기본
   - ORALCE (11g) - TOAD
